@@ -41,3 +41,7 @@ o sea, nos da guias para hacer procesos cortos con una cantidad conciderablement
 
 # Ejercicio No. 3:
 - Escriba una función que reciba una lista y que devuelva como resultado una tupla almacenando el primero y el ultimo elemento de la lista. En caso de que la lista no tenga dos o mas elementos debe indicarlo y no procesar los datos.
+
+
+# Ejercicio No. 4:
+ - Escriba una función que reciba una lista y devuelva el total de numeros positivos que contiene.
