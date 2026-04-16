@@ -29,10 +29,15 @@ o sea, nos da guias para hacer procesos cortos con una cantidad conciderablement
 
 ![alt text](image-3.png)
 
-- y listo, todo parece complejo pero cuando cogemos la practica, ya no hay nadie que nos pueda papar 
+- y listo, todo parece complejo pero cuando cogemos la practica, ya no hay nadie que nos pueda parar 
 
 # GRACIAS 
 
 ![alt text](image-4.png)
 
 # JAJAJAJAJAJAJAJAJAAJJA
+
+
+
+# Ejercicio No. 3:
+- Escriba una función que reciba una lista y que devuelva como resultado una tupla almacenando el primero y el ultimo elemento de la lista. En caso de que la lista no tenga dos o mas elementos debe indicarlo y no procesar los datos.
